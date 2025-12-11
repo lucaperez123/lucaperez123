@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋 , soy Luca</h1>
 <h3 align="center">Técnico universitario en programación - UTN FRSR</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaperez123&label=Profile%20views&color=0e75b6&style=flat" alt="lucaperez123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucaperez123" alt="lucaperez123" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Kreative](https://kreative.alphadocere.cl/)
 
