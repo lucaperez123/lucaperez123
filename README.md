@@ -1,5 +1,5 @@
 # 💫 About Me:
--Soy estudiante de la tecnicatura en programación <br>en la UTN San Rafael<br>-Tengo 21 años<br><br>-Adquiriendo conocimientos en diferentes lenguajes y areas de<br>programación<br>
+-Soy Tecnico universitario en programacion <br>en la UTN San Rafael<br>-Tengo 22 años<br><br>-Adquiriendo conocimientos en diferentes lenguajes y areas de<br>programación<br>
 
 
 ## 🌐 Socials:
